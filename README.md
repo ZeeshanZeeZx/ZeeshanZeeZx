@@ -1,4 +1,4 @@
-
+![logo](https://github.com/ZeeshanZeeZx/ZeeshanZeeZx/blob/main/Zeeshan_banner.png)
 <h1 align="center">Hi 👋, I'm Zeeshan Raza</h1>
 <h3 align="center">An Hardworking Software Developer from India</h3>
 <img align="right" alt="Gif-img" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
